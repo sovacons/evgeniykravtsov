@@ -17,6 +17,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Заготовка для сайта
+         новая строка
         </a>
       </header>
     </div>
