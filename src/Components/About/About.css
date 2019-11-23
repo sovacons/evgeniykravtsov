@@ -1,0 +1,11 @@
+.Image-background {
+    height: 650px;
+    background-image:url('../../static/background-image.png')  ;
+    background-size: 100% 100%;
+    max-width: 1400px;
+}
+
+.About-info {
+    text-align: center;
+    margin-top: 25px;
+}

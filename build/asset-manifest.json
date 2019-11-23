@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/simpleCRA/static/css/main.b100e6da.chunk.css",
+    "main.js": "/simpleCRA/static/js/main.7b5f9f85.chunk.js",
+    "main.js.map": "/simpleCRA/static/js/main.7b5f9f85.chunk.js.map",
+    "runtime-main.js": "/simpleCRA/static/js/runtime-main.e79b0900.js",
+    "runtime-main.js.map": "/simpleCRA/static/js/runtime-main.e79b0900.js.map",
+    "static/js/2.017bb613.chunk.js": "/simpleCRA/static/js/2.017bb613.chunk.js",
+    "static/js/2.017bb613.chunk.js.map": "/simpleCRA/static/js/2.017bb613.chunk.js.map",
+    "index.html": "/simpleCRA/index.html",
+    "precache-manifest.8631538deaf987a01c35229f60ea9410.js": "/simpleCRA/precache-manifest.8631538deaf987a01c35229f60ea9410.js",
+    "service-worker.js": "/simpleCRA/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/simpleCRA/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/simpleCRA/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e79b0900.js",
+    "static/js/2.017bb613.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.7b5f9f85.chunk.js"
+  ]
+}
