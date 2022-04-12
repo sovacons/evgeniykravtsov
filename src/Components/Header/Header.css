@@ -1,0 +1,22 @@
+.Header {
+    display: flex;
+    width:auto;
+    height: 123px;
+    justify-content: flex-end;
+    align-items: center;
+}
+.menu {
+    display: flex;
+    justify-content: center;    
+}
+.menu :last-child {
+    margin-right: 130px;
+}
+.menu-button {
+    color: #212121;
+    font-family: "Open Sans - Semibold";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 22px;
+    margin-left: 15px;
+}
